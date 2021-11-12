@@ -4,7 +4,7 @@ import GeneralGeneletModel as GGM
 
 ''' 
 ###############################################################################
-Supplementary Figure 36
+Supplementary Figure 44
 This simulates an extended IFFL where an upstream genelet produces the coactivator
 of the first two nodes of the IFFL with and without 5% leak
 This simulates the network both with and without 150 nM dB2,dB3,dB4 which suppress the leak
